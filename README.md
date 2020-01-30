@@ -1,7 +1,7 @@
 # Tictactoe
 
 
-##created a repository tictactoe
+created a repository Tictactoe
 
 it is the same like a traditional tictactoe game
 
